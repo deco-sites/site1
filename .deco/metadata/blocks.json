@@ -44,5 +44,13 @@
   "/.deco/blocks/deco-htmx.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FComponent.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Component.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FSayHello.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/SayHello.tsx"
   }
 }
